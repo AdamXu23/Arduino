@@ -57,7 +57,7 @@ void setup(void);
 void loop(void);
 #line 52 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
 void setup(void) {
-  Serial.begin(115200);
+  Serial.begin(9600);
   Serial.println("Hello!");
 
   nfc.begin();
@@ -104,7 +104,7 @@ void loop(void) {
 	  
       // Now we need to try to authenticate it for read/write access
       // Try with the factory default KeyA: 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF
-      Serial.println("Trying to authenticate block 4 with default KEYA value");
+      Serial.println("Trying to authenticate block 0 with default KEYA value");
       uint8_t keya[6] = { 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF };
 	  
 	  // Start with block 4 (the first block of sector 1) since sector 0
@@ -123,12 +123,12 @@ void loop(void) {
         // success = nfc.mifareclassic_WriteDataBlock (4, data);
 
         // Try to read the contents of block 4
-        success = nfc.mifareclassic_ReadDataBlock(4, data);
+        success = nfc.mifareclassic_ReadDataBlock(0, data);
 		
         if (success)
         {
           // Data seems to have been read ... spit it out
-          Serial.println("Reading Block 4:");
+          Serial.println("Reading Block 0:");
           nfc.PrintHexChar(data, 16);
           Serial.println("");
 		  
@@ -152,9 +152,9 @@ void loop(void) {
       Serial.println("Seems to be a Mifare Ultralight tag (7 byte UID)");
 	  
       // Try to read the first general-purpose user page (#4)
-      Serial.println("Reading page 4");
+      Serial.println("Reading page 0");
       uint8_t data[32];
-      success = nfc.mifareultralight_ReadPage (4, data);
+      success = nfc.mifareultralight_ReadPage (0, data);
       if (success)
       {
         // Data seems to have been read ... spit it out
