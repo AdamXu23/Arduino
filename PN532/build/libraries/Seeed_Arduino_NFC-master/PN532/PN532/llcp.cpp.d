@@ -1,10 +1,10 @@
 c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Seeed_Arduino_NFC-master\PN532\PN532\llcp.cpp.o: \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src\PN532\PN532\llcp.cpp \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/llcp.h \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/mac_link.h \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532.h \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532Interface.h \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532_debug.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\PN532\PN532\llcp.cpp \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/llcp.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/mac_link.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532Interface.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532_debug.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/Arduino.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/binary.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/WCharacter.h \

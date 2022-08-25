@@ -1,7 +1,7 @@
 c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Seeed_Arduino_NFC-master\NdefRecord.cpp.o: \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src\NdefRecord.cpp \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src\NdefRecord.h \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/Due.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\NdefRecord.cpp \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\NdefRecord.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/Due.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/Arduino.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/binary.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/WCharacter.h \
@@ -13,5 +13,5 @@ c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Seeed_Arduino_NFC-ma
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/USBAPI.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/Arduino.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\variants\mega/pins_arduino.h \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/Ndef.h \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532_debug.h
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/Ndef.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532_debug.h

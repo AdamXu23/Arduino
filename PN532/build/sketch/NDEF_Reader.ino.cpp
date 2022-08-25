@@ -34,7 +34,7 @@ void setup(void);
 void loop(void);
 #line 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino"
 void setup(void) {
-    SERIAL.begin(115200);
+    SERIAL.begin(512000);
     SERIAL.println("NDEF Reader");
     nfc.begin();
 }

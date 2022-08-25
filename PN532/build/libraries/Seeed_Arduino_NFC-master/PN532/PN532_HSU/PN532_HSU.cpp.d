@@ -1,7 +1,7 @@
 c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Seeed_Arduino_NFC-master\PN532\PN532_HSU\PN532_HSU.cpp.o: \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src\PN532\PN532_HSU\PN532_HSU.cpp \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532_HSU/PN532_HSU.h \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532Interface.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\PN532\PN532_HSU\PN532_HSU.cpp \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532_HSU/PN532_HSU.h \
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532Interface.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/Arduino.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/binary.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/WCharacter.h \
@@ -13,4 +13,4 @@ c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Seeed_Arduino_NFC-ma
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/USBAPI.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/Arduino.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\variants\mega/pins_arduino.h \
- C:\Users\822\Documents\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532_debug.h
+ C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532_debug.h

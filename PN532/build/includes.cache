@@ -12,7 +12,7 @@
   {
     "Sourcefile": "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\build\\sketch\\NDEF_Reader.ino.cpp",
     "Include": "NfcAdapter.h",
-    "Includepath": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src"
+    "Includepath": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src"
   },
   {
     "Sourcefile": "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\build\\sketch\\NDEF_Reader.ino.cpp",
@@ -20,97 +20,97 @@
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\MifareClassic.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\MifareClassic.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\MifareUltralight.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\MifareUltralight.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\Ndef.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\Ndef.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NdefMessage.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NdefMessage.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NdefRecord.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NdefRecord.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NfcAdapter.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NfcAdapter.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NfcTag.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NfcTag.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\PN532.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\PN532.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\emulatetag.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\emulatetag.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\llcp.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\llcp.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\mac_link.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\mac_link.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\snep.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\snep.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_HSU\\PN532_HSU.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_HSU\\PN532_HSU.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_I2C\\PN532_I2C.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_I2C\\PN532_I2C.cpp",
     "Include": "Wire.h",
     "Includepath": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\Wire\\src"
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_I2C\\PN532_I2C.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_I2C\\PN532_I2C.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SPI\\PN532_SPI.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SPI\\PN532_SPI.cpp",
     "Include": "SPI.h",
     "Includepath": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\SPI\\src"
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SPI\\PN532_SPI.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SPI\\PN532_SPI.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SWHSU\\PN532_SWHSU.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SWHSU\\PN532_SWHSU.cpp",
     "Include": "SoftwareSerial.h",
     "Includepath": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\SoftwareSerial\\src"
   },
   {
-    "Sourcefile": "C:\\Users\\822\\Documents\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SWHSU\\PN532_SWHSU.cpp",
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SWHSU\\PN532_SWHSU.cpp",
     "Include": "",
     "Includepath": null
   },

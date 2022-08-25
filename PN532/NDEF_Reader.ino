@@ -27,7 +27,7 @@
 #endif
 
 void setup(void) {
-    SERIAL.begin(115200);
+    SERIAL.begin(512000);
     SERIAL.println("NDEF Reader");
     nfc.begin();
 }
