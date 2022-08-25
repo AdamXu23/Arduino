@@ -13,7 +13,7 @@
     NfcAdapter nfc(pn532hsu);
 # 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino"
 void setup(void) {
-    Serial.begin(9600);
+    Serial.begin(115200);
     Serial.println("NDEF Reader");
     nfc.begin();
 }
