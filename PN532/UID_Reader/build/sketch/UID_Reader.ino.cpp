@@ -34,7 +34,7 @@ void setup(void);
 void loop(void);
 #line 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\UID_Reader\\UID_Reader.ino"
 void setup(void) {
-  Serial.begin(9600);
+  Serial.begin(512000);
   Serial.println("Hello!");
 
   nfc.begin();
