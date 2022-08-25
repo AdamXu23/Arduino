@@ -13,7 +13,7 @@
     PN532 nfc(pn532hsu);
 # 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\UID_Reader\\UID_Reader.ino"
 void setup(void) {
-  Serial.begin(512000);
+  Serial.begin(115200);
   Serial.println("Hello!");
 
   nfc.begin();

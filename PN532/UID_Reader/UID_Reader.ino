@@ -27,7 +27,7 @@
 #endif
 
 void setup(void) {
-  Serial.begin(512000);
+  Serial.begin(115200);
   Serial.println("Hello!");
 
   nfc.begin();
