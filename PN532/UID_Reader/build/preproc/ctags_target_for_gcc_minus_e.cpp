@@ -48,7 +48,7 @@ void loop(void) {
   if (success) {
     // Display some basic information about the card
     //Serial.println("Found an ISO14443A card");
-    //Serial.print("  UID Length: ");Serial.print(uidLength, DEC);Serial.println(" bytes");
+    Serial.print("  UID Length: ");Serial.print(uidLength, 10);Serial.println(" bytes");
     Serial.print("  UID Value: ");
     nfc.PrintHex(uid, uidLength);
     Serial.println("");
