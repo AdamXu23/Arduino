@@ -1,0 +1,5 @@
+{
+    "sketch": "PN532\\NDEF_Reader.ino",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega"
+}
