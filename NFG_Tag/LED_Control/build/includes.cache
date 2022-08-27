@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\may_l\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\may_l\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\variants\\standard"
+  },
+  {
+    "Sourcefile": "f:\\Adam Data\\GitHub\\Arduino\\NFG_Tag\\LED_Control\\build\\sketch\\LED_Control.ino.cpp",
+    "Include": "NfcTag.h",
+    "Includepath": "F:\\Adam Data\\Arduino\\libraries\\NFC_Tag_M24LR6E-master"
+  },
+  {
+    "Sourcefile": "f:\\Adam Data\\GitHub\\Arduino\\NFG_Tag\\LED_Control\\build\\sketch\\LED_Control.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\may_l\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "f:\\Adam Data\\GitHub\\Arduino\\NFG_Tag\\LED_Control\\build\\sketch\\LED_Control.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\NFC_Tag_M24LR6E-master\\NfcTag.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\may_l\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\may_l\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  }
+]
