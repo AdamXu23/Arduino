@@ -1,0 +1,137 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\variants\\mega"
+  },
+  {
+    "Sourcefile": "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Write_Mifare_Classic\\AVEX822_github_io\\build\\sketch\\AVEX822_github_io.ino.cpp",
+    "Include": "NfcAdapter.h",
+    "Includepath": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Write_Mifare_Classic\\AVEX822_github_io\\build\\sketch\\AVEX822_github_io.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\MifareClassic.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\MifareUltralight.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\Ndef.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NdefMessage.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NdefRecord.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NfcAdapter.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\NfcTag.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\PN532.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\emulatetag.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\llcp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\mac_link.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532\\snep.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_HSU\\PN532_HSU.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_I2C\\PN532_I2C.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_I2C\\PN532_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SPI\\PN532_SPI.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SPI\\PN532_SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SWHSU\\PN532_SWHSU.cpp",
+    "Include": "SoftwareSerial.h",
+    "Includepath": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\SoftwareSerial\\src"
+  },
+  {
+    "Sourcefile": "C:\\Arduino\\libraries\\Seeed_Arduino_NFC-master\\src\\PN532\\PN532_SWHSU\\PN532_SWHSU.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\822\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\SoftwareSerial\\src\\SoftwareSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
