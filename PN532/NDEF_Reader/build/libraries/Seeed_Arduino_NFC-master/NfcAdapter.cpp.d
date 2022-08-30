@@ -1,4 +1,4 @@
-c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Seeed_Arduino_NFC-master\NfcAdapter.cpp.o: \
+c:\Users\822\Documents\GitHub\Arduino\PN532\NDEF_Reader\build\libraries\Seeed_Arduino_NFC-master\NfcAdapter.cpp.o: \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\NfcAdapter.cpp \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/NfcAdapter.h \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532Interface.h \

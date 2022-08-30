@@ -1,4 +1,4 @@
-c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Seeed_Arduino_NFC-master\Ndef.cpp.o: \
+c:\Users\822\Documents\GitHub\Arduino\PN532\NDEF_Reader\build\libraries\Seeed_Arduino_NFC-master\Ndef.cpp.o: \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\Ndef.cpp \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\Ndef.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino/Arduino.h \

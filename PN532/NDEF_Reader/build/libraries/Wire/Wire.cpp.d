@@ -1,4 +1,4 @@
-c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Wire\Wire.cpp.o: \
+c:\Users\822\Documents\GitHub\Arduino\PN532\NDEF_Reader\build\libraries\Wire\Wire.cpp.o: \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\libraries\Wire\src\Wire.cpp \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\libraries\Wire\src\utility/twi.h \
  C:\Users\822\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\libraries\Wire\src\Wire.h \

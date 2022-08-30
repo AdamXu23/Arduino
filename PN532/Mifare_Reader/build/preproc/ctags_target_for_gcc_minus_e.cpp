@@ -1,4 +1,4 @@
-# 1 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
+# 1 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
 /**************************************************************************/
 /*! 
 
@@ -37,16 +37,16 @@
     To enable debug message, define DEBUG in PN532/PN532_debug.h
 
 */
-# 21 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
+# 21 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
 /**************************************************************************/
 
-# 24 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino" 2
-# 25 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino" 2
-# 33 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
-# 34 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino" 2
+# 24 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino" 2
+# 25 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino" 2
+# 33 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
+# 34 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino" 2
     PN532_HSU pn532hsu(Serial1);
     PN532 nfc(pn532hsu);
-# 52 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
+# 52 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
 void setup(void) {
   // has to be fast to dump the entire memory contents!
   Serial.begin(115200);

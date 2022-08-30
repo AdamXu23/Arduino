@@ -1,4 +1,4 @@
-c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Seeed_Arduino_NFC-master\PN532\PN532\emulatetag.cpp.o: \
+c:\Users\822\Documents\GitHub\Arduino\PN532\NDEF_Reader\build\libraries\Seeed_Arduino_NFC-master\PN532\PN532\emulatetag.cpp.o: \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\PN532\PN532\emulatetag.cpp \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/emulatetag.h \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/PN532/PN532/PN532.h \

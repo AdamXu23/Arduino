@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino"
+#line 1 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader\\NDEF_Reader.ino"
 #include <NfcAdapter.h>
 #include <PN532/PN532/PN532.h>
 #if 0 // use SPI
@@ -28,11 +28,11 @@
     NfcAdapter nfc = NfcAdapter(pn532_i2c);
 #endif
 
-#line 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino"
+#line 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader\\NDEF_Reader.ino"
 void setup(void);
-#line 35 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino"
+#line 35 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader\\NDEF_Reader.ino"
 void loop(void);
-#line 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino"
+#line 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader\\NDEF_Reader.ino"
 void setup(void) {
     SERIAL.begin(512000);
     SERIAL.println("NDEF Reader");

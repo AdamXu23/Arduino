@@ -1,4 +1,4 @@
-c:\Users\822\Documents\GitHub\Arduino\PN532\build\libraries\Seeed_Arduino_NFC-master\MifareClassic.cpp.o: \
+c:\Users\822\Documents\GitHub\Arduino\PN532\NDEF_Reader\build\libraries\Seeed_Arduino_NFC-master\MifareClassic.cpp.o: \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\MifareClassic.cpp \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src\MifareClassic.h \
  C:\Arduino\libraries\Seeed_Arduino_NFC-master\src/Due.h \

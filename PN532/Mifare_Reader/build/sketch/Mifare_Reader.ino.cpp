@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
+#line 1 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
 /**************************************************************************/
 /*! 
     This example will wait for any ISO14443A card or tag, and
@@ -51,11 +51,11 @@
     PN532 nfc = NfcAdapter(pn532_i2c);
 #endif
 
-#line 52 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
+#line 52 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
 void setup(void);
-#line 76 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
+#line 76 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
 void loop(void);
-#line 52 "f:\\Adam Data\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
+#line 52 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\Mifare_Reader\\Mifare_Reader.ino"
 void setup(void) {
   // has to be fast to dump the entire memory contents!
   Serial.begin(115200);

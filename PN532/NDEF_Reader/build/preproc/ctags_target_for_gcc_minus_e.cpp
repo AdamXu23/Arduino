@@ -1,6 +1,6 @@
-# 1 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino"
-# 2 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino" 2
-# 3 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino" 2
+# 1 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader\\NDEF_Reader.ino"
+# 2 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader\\NDEF_Reader.ino" 2
+# 3 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader\\NDEF_Reader.ino" 2
 
 
 
@@ -8,10 +8,10 @@
 
 
 
-# 11 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino" 2
+# 11 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader\\NDEF_Reader.ino" 2
     PN532_HSU pn532hsu(Serial1);
     NfcAdapter nfc(pn532hsu);
-# 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader.ino"
+# 29 "c:\\Users\\822\\Documents\\GitHub\\Arduino\\PN532\\NDEF_Reader\\NDEF_Reader.ino"
 void setup(void) {
     Serial.begin(512000);
     Serial.println("NDEF Reader");
