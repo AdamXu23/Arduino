@@ -1,0 +1,6 @@
+{
+    "sketch": "Send.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}

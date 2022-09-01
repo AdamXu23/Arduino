@@ -1,0 +1,77 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\may_l\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\may_l\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\variants\\standard"
+  },
+  {
+    "Sourcefile": "f:\\Adam Data\\GitHub\\Arduino\\IR\\Send\\build\\sketch\\Send.ino.cpp",
+    "Include": "IRLibSendBase.h",
+    "Includepath": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src"
+  },
+  {
+    "Sourcefile": "f:\\Adam Data\\GitHub\\Arduino\\IR\\Send\\build\\sketch\\Send.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibDecodeBase.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibFreq.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibHardware.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibProtocols.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibRecv.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibRecvBase.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibRecvLoop.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibRecvPCI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibSAMD21.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibSAMD51.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Adam Data\\Arduino\\libraries\\Seeed_Arduino_IR-master\\src\\IRLibSendBase.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
